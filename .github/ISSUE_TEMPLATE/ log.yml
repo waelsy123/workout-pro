@@ -1,0 +1,23 @@
+date: YYYY-MM-DD
+
+warm_up:
+  - exercise_1
+  - exercise_2
+  - exercise_3
+
+exercises:
+  exercise_name:
+    equipment: optional (if applicable)
+    sets:
+      - reps_or_duration@RPE
+      - reps_or_duration@RPE
+      - reps_or_duration@RPE
+
+  another_exercise_name:
+    sets:
+      - reps_or_duration@RPE
+      - reps_or_duration@RPE
+
+stretching:
+  - stretch_1
+  - stretch_2

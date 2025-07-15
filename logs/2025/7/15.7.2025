@@ -1,0 +1,47 @@
+date: 2025-07-15
+
+warm_up:
+  - run
+  - jump
+  - superman holds
+  - lays
+  - wrist mobility
+
+exercises:
+  handstand:
+    sets:
+      - 3@fail(balance)
+      - 10@7
+      - 10@7
+      - fail@fail(balance)
+      - 3@fail(balance)
+      - 8@fail(balance)
+
+  lean_planche:
+    sets:
+      - 10@8
+
+  advanced_tuck_planche:
+    equipment: black band
+    sets:
+      - 11@9
+      - 10@8
+      - 9@9
+      - 10@8
+
+  weighted_pull_ups:
+    sets:
+      - 6@5 (BW)
+      - 6@7 (+10kg)
+      - 5@9 (+15kg)
+      - 4@8 (+17.5kg)
+
+  low_parallettes_wall_handstand_pushups:
+    sets:
+      - 4@8
+      - 4@8
+      - 4@9
+
+stretching:
+  - straddle L-sit stretches
+  - hamstring stretching
