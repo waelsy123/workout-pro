@@ -1,8 +1,8 @@
 ---
 name: Workout Log
 about: 'insert today''s workout '
-title: ''
-labels: ''
+title: "[Workout log]"
+labels: workout-log
 assignees: ''
 
 ---
