@@ -1,0 +1,1 @@
+real all previous logs, stats and  skills progressions and stats and suggest a workout plan for today
