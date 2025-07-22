@@ -1,6 +1,6 @@
 # Planche Progress Stats
 
-*Last updated: **2025-07-15***
+*Last updated: **2025-07-21***
 
 ---
 
@@ -15,14 +15,14 @@
 
 ---
 
-## 2 Latest Session Snapshot (2025-07-15)
+## 2 Latest Session Snapshot (2025-07-21)
 
 | Set | Hold (s) | RPE |
 | --- | -------- | --- |
-| 1   | 11       | 9   |
-| 2   | 10       | 8   |
-| 3   | 9        | 9   |
-| 4   | 10       | 8   |
+| 1   | 10       | 8   |
+| 2   | 8        | 8   |
+| 3   | 10       | 8   |
+| 4   | 12       | 8   |
 
 * **Total time-under-tension (TUT):** **40 s**
 * **Last-set RPE:** **8**
@@ -44,9 +44,9 @@
 
 ```yaml
 stats:
-  date_updated: 2025-07-15
-  sessions_logged: 1
-  since_last_progression: 0   # sessions since band/shape change
+  date_updated: 2025-07-21
+  sessions_logged: 3
+  since_last_progression: 2   # sessions since band/shape change
   ready_sessions_in_row: 0    # consecutive sessions meeting all criteria
   current_band: 22mm
   target_band: 13mm
@@ -57,8 +57,8 @@ stats:
 
 ## 4 Next Action Plan
 
-1. **Aim:** 5 × 10 s holds next session, maintain strict form.
-2. **Rest:** 2 min between sets.
+1. **Aim:** 4-5 × 10 s holds next session, maintain strict form.
+2. **Rest:** 90-120 s between sets.
 3. **Re-test RPE:** Progress when last-set RPE ≤ 7 for **two sessions**.
 
 ---
@@ -66,7 +66,15 @@ stats:
 ## 5 Historical Log Index
 
 ```
-- 2025-07-15  (black-band adv-tuck)
+- 2025-07-15  (black-band adv-tuck): 11s, 10s, 9s, 10s @RPE 8
+- 2025-07-18  (black-band adv-tuck): 8s, 11s, 9s, 10s @RPE 8  
+- 2025-07-21  (black-band adv-tuck): 10s, 8s, 10s, 12s @RPE 8
+```
+
+**Straddle Planche Progress (with bands):**
+```
+- 2025-07-17  (black+red bands): 1s, 1s, 2s, 2s, 3s, 4s @RPE 9
+- 2025-07-21  (black+red bands): 3s, 4s, 4s @RPE 8-9
 ```
 
 > More trend data (graphs, moving averages) will be added once ≥ 5 logs are available.
