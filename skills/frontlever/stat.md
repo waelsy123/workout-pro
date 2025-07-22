@@ -1,6 +1,6 @@
 # Front Lever Progress Stats
 
-*Last updated: **2025-07-21***
+*Last updated: **2025-07-22***
 
 ---
 
@@ -15,19 +15,19 @@
 
 ---
 
-## 2 Latest Session Snapshot (2025-07-18)
+## 2 Latest Session Snapshot (2025-07-22)
 
 | Set | Hold Duration | RPE | Quality Notes    |
 | --- | ------------- | --- | ---------------- |
-| 1   | 9s            | 8   | Solid position   |
-| 2   | 11s           | 8   | Good control     |
-| 3   | 6s            | 8   | Fatigue showing  |
-| 4   | 9s            | 8   | Consistent form  |
+| 1   | 5s            | 8   | Negative focus   |
+| 2   | 6s            | 7   | Better control   |
+| 3   | 6s            | 8   | Consistent form  |
+| 4   | 5s            | 8   | Maintained form  |
 
-* **Average Hold:** **8.75s**
-* **Best Hold:** **11s**  
+* **Average Hold:** **5.5s**
+* **Best Hold:** **6s**  
 * **Last-set RPE:** **8**
-* **Form Quality:** Good - maintained hollow body
+* **Form Quality:** Good - negatives training
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Benchmark              | Target | Current | Status |
 | ---------------------- | ------ | ------- | ------ |
-| **Advanced Tuck Hold** | 12-15s | 11s     | 🎯 73%  |
+| **Advanced Tuck Hold** | 12-15s | 6s      | 🎯 40%  |
 | **Consistent RPE**     | ≤ 7    | 8       | 🎯      |
 | **Session Count**      | 8-12   | 4       | 📊     |
 | **Pull-up Strength**   | 15+    | 12      | 🎯 80%  |
@@ -50,7 +50,7 @@
 
 | Criterion              | Requirement | Status |
 | ---------------------- | ----------- | ------ |
-| Hold duration          | 12-15s      | ❌ (11s)|
+| Hold duration          | 12-15s      | ❌ (6s) |
 | Last-set RPE           | ≤ 7         | ❌ (8)  |
 | Consecutive sessions   | 2           | ❌ (0)  |
 | Form consistency       | Good        | ✅      |
@@ -63,13 +63,13 @@
 
 ```yaml
 stats:
-  date_updated: 2025-07-21
-  sessions_logged: 4
-  current_level: advanced_tuck
-  best_hold_session: 11s
+  date_updated: 2025-07-22
+  sessions_logged: 5
+  current_level: advanced_tuck_negatives
+  best_hold_session: 6s
   best_hold_ever: 11s
   ready_sessions_in_row: 0
-  target_next_level: one_leg_extended
+  target_next_level: advanced_tuck_holds
 ```
 
 ---
@@ -96,6 +96,7 @@ stats:
 - 2025-07-17  Advanced tuck: 9s, 11s, 6s, 9s @RPE 8 (avg: 8.75s)
 - 2025-07-18  Advanced tuck: 9s, 11s, 6s, 9s @RPE 8 (avg: 8.75s)
 - 2025-07-21  Advanced tuck: 9s, 11s, 6s, 9s @RPE 8 (avg: 8.75s)
+- 2025-07-22  Advanced tuck negatives: 5s, 6s, 6s, 5s @RPE 8 (avg: 5.5s)
 ```
 
 **Progress Pattern:**
