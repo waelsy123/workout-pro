@@ -1,6 +1,6 @@
 # Planche Progress Stats
 
-*Last updated: **2025-07-22***
+*Last updated: **2025-07-24***
 
 ---
 
@@ -15,18 +15,18 @@
 
 ---
 
-## 2 Latest Session Snapshot (2025-07-22)
+## 2 Latest Session Snapshot (2025-07-24)
 
 | Set | Hold (s) | RPE |
 | --- | -------- | --- |
-| 1   | 8        | 9   |
-| 2   | 8        | 8   |
-| 3   | 11       | 8   |
-| 4   | 9        | 8   |
-| 5   | 11       | 8   |
+| 1   | 5        | 7   |
+| 2   | 11       | 8   |
+| 3   | 10       | 7   |
+| 4   | 10       | 8   |
+| 5   | 9        | 7   |
 
-* **Total time-under-tension (TUT):** **47 s**
-* **Last-set RPE:** **8**
+* **Total time-under-tension (TUT):** **45 s**
+* **Last-set RPE:** **7**
 
 ### Pass / Fail vs Progression Criteria
 
@@ -34,10 +34,10 @@
 | -------------------- | ----------- | ------ |
 | Sets                 | ≥ 4         | ✅ (5)  |
 | Hold length          | 8–12 s each | ✅      |
-| Last-set RPE         | ≤ 7         | ❌ (8)  |
-| Consecutive sessions | 2           | ❌ (0)  |
+| Last-set RPE         | ≤ 7         | ✅ (7)  |
+| Consecutive sessions | 2           | ❌ (1)  |
 
-> **Verdict:** *Not yet ready* to drop to the red band. Remain on black-band advanced-tuck until the **last-set RPE ≤ 7 for two sessions in a row**.
+> **Verdict:** *First qualifying session* achieved! Need one more session with last-set RPE ≤ 7 to progress to red band (13mm).
 
 ---
 
@@ -45,10 +45,10 @@
 
 ```yaml
 stats:
-  date_updated: 2025-07-22
-  sessions_logged: 4
-  since_last_progression: 3   # sessions since band/shape change
-  ready_sessions_in_row: 0    # consecutive sessions meeting all criteria
+  date_updated: 2025-07-24
+  sessions_logged: 5
+  since_last_progression: 4   # sessions since band/shape change
+  ready_sessions_in_row: 1    # consecutive sessions meeting all criteria
   current_band: 22mm
   target_band: 13mm
   current_shape: advanced_tuck
@@ -71,6 +71,7 @@ stats:
 - 2025-07-18  (black-band adv-tuck): 8s, 11s, 9s, 10s @RPE 8  
 - 2025-07-21  (black-band adv-tuck): 10s, 8s, 10s, 12s @RPE 8
 - 2025-07-22  (black-band adv-tuck): 8s, 8s, 11s, 9s, 11s @RPE 8
+- 2025-07-24  (black-band adv-tuck): 5s, 11s, 10s, 10s, 9s @RPE 7
 ```
 
 **Straddle Planche Progress (with bands):**
