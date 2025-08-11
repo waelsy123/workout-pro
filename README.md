@@ -6,24 +6,36 @@ A comprehensive workout tracking and progression system for calisthenics trainin
 
 ```
 workout-pro/
-├── README.md           # This file - project overview and documentation
-├── BANDS.md           # Resistance bands specifications and usage
-├── logs/              # Daily workout logs organized by date
+├── README.md              # This file - project overview and documentation
+├── BANDS.md              # Resistance bands specifications and usage
+├── logs/                 # Daily workout logs organized by date
 │   └── 2025/
-│       └── 7/
-│           └── 15.7.2025
-├── progress/          # Progress tracking and statistics
-│   └── stats.md       # Current skills stats summary
-└── skills/            # Skill-specific progression tracking
-    ├── frontlever/    # Front lever progression
-    └── planche/       # Planche progression
+│       ├── 7/            # July 2025 logs
+│       │   ├── 15.md, 17.md, 18.md, 21.md, 22.md, 24.md, 27.md
+│       └── 8/            # August 2025 logs
+│           ├── 7.md, 9.md, 11.md
+├── progress/             # Progress tracking and statistics
+│   └── stats.md          # Current skills stats summary
+├── session-summaries/    # Processing session documentation
+│   └── 2025-08-11/       # Session summaries with milestone tracking
+│       ├── july-24-summary.md
+│       ├── july-27-summary.md
+│       ├── august-07-summary.md
+│       ├── august-09-summary.md
+│       ├── august-11-summary.md
+│       └── session-index.md
+└── skills/               # Skill-specific progression tracking
+    ├── frontlever/       # Front lever progression
+    ├── handstand/        # Handstand progression and stats
+    ├── planche/          # Planche progression and stats
+    └── weighted-pullups/ # Weighted pull-ups progression
 ```
 
 ## 🎯 Skills Progression
 
 ### Current Skills Status
 
-**Planche**: Advanced tuck with black band (9-17kg resistance) for 10 seconds consistently. Currently working on reducing assistance to red band (3-9kg resistance).
+**Planche**: 🚀 **STRADDLE PLANCHE ACHIEVED!** Successfully progressed to straddle shape with red+black band combination (8s @RPE 7). Major breakthrough from advanced-tuck progression.
 
 ### Skill Categories
 
@@ -73,25 +85,37 @@ Bands are primarily used for:
 
 ## 📈 Latest Workout Summary
 
-**Date**: July 15, 2025
+**Date**: August 11, 2025
 
 **Key Highlights**:
-- Advanced tuck planche with black band: 4 sets (9-11 reps @ RPE 8-9)
-- Weighted pull-ups: Progressive loading up to +17.5kg
-- Handstand practice: Balance-focused training
-- Wall handstand push-ups on parallettes: 3 sets of 4 reps
+- 🔥 **Handstand NEW PB**: 12-second freestanding hold achieved (TWICE!)
+- 🚀 **Weighted Pull-ups**: BW + 18kg × 5 reps breakthrough
+- **Straddle Planche**: Consistent 5s holds with black band + volume work
+- **Training Innovation**: Wall/freestanding alternating protocol
 
-**Current Focus**: Reducing planche assistance from black band to red band while maintaining form and hold duration.
+**Current Focus**: Approaching 15s handstand benchmark (only 3s away!) and consolidating straddle planche progression.
 
 ## 🎯 Training Goals
 
-1. **Planche Progression**: Transition from black band assistance to red band
-2. **Strength Development**: Continue weighted pull-up progression
-3. **Balance Skills**: Improve handstand consistency and duration
-4. **Flexibility**: Maintain mobility through regular stretching
+1. **Straddle Planche**: Consolidate straddle shape and transition to red band assistance
+2. **Handstand Mastery**: Achieve 15-second freestanding hold (intermediate benchmark)
+3. **Strength Development**: Progress weighted pull-ups beyond +18kg × 5 reps
+4. **Skill Integration**: Continue developing multiple movement patterns simultaneously
 
 ## 📝 Usage
 
-1. **Daily Logging**: Record workouts in `logs/YYYY/M/DD.MM.YYYY` format
+1. **Daily Logging**: Record workouts in `logs/YYYY/M/DD.md` format
 2. **Progress Updates**: Update `progress/stats.md` with current skill levels
 3. **Skill Tracking**: Document progression milestones in respective skill folders
+4. **Session Documentation**: Major processing sessions documented in `session-summaries/`
+
+## 📋 Session Summaries
+
+The `session-summaries/` directory contains detailed documentation of major workout log processing sessions, including:
+
+- **Individual Workout Summaries**: Detailed breakdown of each session's achievements
+- **Milestone Tracking**: Documentation of major breakthroughs and progressions  
+- **Session Indices**: Overview of processing sessions with comprehensive change logs
+- **Training Insights**: Analysis of methodologies and innovations
+
+Latest session: `2025-08-11/` - 5 workout logs processed with multiple major milestones achieved.

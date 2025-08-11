@@ -1,5 +1,7 @@
 latest workout: 2025-08-11
 
+*For detailed session summaries and milestone documentation, see: `/session-summaries/2025-08-11/`*
+
 current skills stats summary: 
 1. planche: 
    - STRADDLE PLANCHE: Solid progression with comprehensive training
