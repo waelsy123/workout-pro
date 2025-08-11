@@ -1,16 +1,16 @@
-latest workout: 2025-08-09
+latest workout: 2025-08-11
 
 current skills stats summary: 
 1. planche: 
    - Shape: Straddle planche progression with black band
-   - Latest: 4s straddle hold, 32s planche lean practice (5s, 5s, 10s, 12s)
-   - Status: Focus on fundamentals and lean progression for strength building
+   - Latest: 17s TUT straddle holds (3s, 4s, 5s, 5s @RPE 8), 30s lean holds, 30 lean push-ups
+   - Status: Volume breakthrough - achieved 4 sets straddle work + comprehensive lean training
 
 2. handstand: 
    - Phase: Freestanding Balance
-   - Best hold: 10s (freestanding) - recent improvement
-   - Recent success rate: 100% (5/5 attempts)
-   - Status: Strong progress, achieving double-digit holds consistently
+   - Best hold: 12s (freestanding) - new personal best achieved twice
+   - Recent success rate: 100% (4/4 attempts), wall holds up to 30s
+   - Status: Excellent progress, consistent double-digit holds, approaching intermediate level
 
 3. front lever: 
    - Level: Advanced tuck negatives  
@@ -18,6 +18,6 @@ current skills stats summary:
    - Status: Building strength through negatives training
 
 4. weighted pull-ups: 
-   - Current max: BW + 20kg × 3 reps
-   - Sessions logged: 4
-   - Status: Consistent strength at current weight, working on volume
+   - Current max: BW + 18kg × 5 reps
+   - Sessions logged: 5
+   - Status: Good volume progress, achieved 4-set session with solid form
