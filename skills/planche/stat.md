@@ -1,6 +1,6 @@
 # Planche Progress Stats
 
-*Last updated: **2025-08-09***
+*Last updated: **2025-08-11***
 
 ---
 
@@ -15,24 +15,33 @@
 
 ---
 
-## 2 Latest Session Snapshot (2025-08-09)
+## 2 Latest Session Snapshot (2025-08-11)
 
 ### Planche Lean (Preparation/Activation)
-| Set | Hold (s) | Notes |
-| --- | -------- | ----- |
-| 1   | 5        | Warm-up |
-| 2   | 5        | Building |
-| 3   | 10       | Strong |
-| 4   | 12       | Excellent form |
+| Set | Hold (s) | RPE |
+| --- | -------- | --- |
+| 1   | 10       | 6   |
+| 2   | 10       | 6   |
+| 3   | 10       | 7   |
 
 ### Straddle Planche (Black band only)
 | Set | Hold (s) | RPE |
 | --- | -------- | --- |
-| 1   | 4        | 8   |
+| 1   | 3        | 8   |
+| 2   | 4        | 9   |
+| 3   | 5        | 8   |
+| 4   | 5        | 8   |
 
-* **Session focus:** Mixed strength/cardio day with planche lean + single straddle attempt
-* **Planche lean improvement:** Up to 12s (excellent activation work)
-* **Straddle maintenance:** Solid 4s hold with black band
+### Planche Lean Push-ups
+| Set | Reps |
+| --- | ---- |
+| 1   | 10   |
+| 2   | 10   |
+| 3   | 10   |
+
+* **Session focus:** Comprehensive planche training with multiple modalities
+* **Straddle progression:** Best hold of 5s (2 sets), showing improvement
+* **Volume work:** 30 planche lean push-ups for strength endurance
 
 ### Pass / Fail vs Progression Criteria
 
@@ -51,15 +60,16 @@
 
 ```yaml
 stats:
-  date_updated: 2025-08-09
-  sessions_logged: 8
-  since_last_progression: 1   # sessions since shape progression
+  date_updated: 2025-08-11
+  sessions_logged: 9
+  since_last_progression: 2   # sessions since shape progression
   ready_sessions_in_row: 0    # reset for new straddle shape
   current_band: 22mm          # black band work
   target_band: 13mm           # eventual goal for straddle
-  current_shape: straddle     # maintaining progression
+  current_shape: straddle     # progressing well
   shape_progression_date: 2025-08-07
-  session_type: maintenance   # lighter volume session
+  session_type: comprehensive # full training session
+  best_hold_recent: 5s        # improvement in hold duration
 ```
 
 ---
@@ -85,6 +95,7 @@ stats:
 - 2025-07-27  (black-band adv-tuck): 6s, 9s, 8s, 10s, 10s @RPE 7 ⚡⚡
 - 2025-08-07  🚀 STRADDLE PROGRESSION! Red+black: 4s@8, 8s@7, 7s@7 | Black: 3s@9, 4s@9, 2s@8
 - 2025-08-09  Planche lean: 5s, 5s, 10s, 12s + Straddle black: 4s@8 (maintenance)
+- 2025-08-11  Planche lean: 10s@6/6/7 + Straddle black: 3s@8, 4s@9, 5s@8, 5s@8 + PL pushups 3×10
 ```
 
 **Straddle Planche Progress Timeline:**
@@ -96,6 +107,7 @@ stats:
   * Red+black: 4s@8, 8s@7, 7s@7 (excellent progress)
   * Black only: 3s@9, 4s@9, 2s@8 (strength challenge)
 - 2025-08-09  (maintenance session): Black only: 4s@8            [Solid maintenance]
+- 2025-08-11  (comprehensive session): Black only: 3s@8, 4s@9, 5s@8, 5s@8 [Consistent progress]
 ```
 
 > More trend data (graphs, moving averages) will be added once ≥ 5 logs are available.

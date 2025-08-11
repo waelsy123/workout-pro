@@ -1,17 +1,17 @@
-latest workout: 2025-08-09
+latest workout: 2025-08-11
 
 current skills stats summary: 
 1. planche: 
-   - STRADDLE PLANCHE: Maintaining progression with solid work
-   - Latest session: Mixed training day with planche lean (12s) + straddle (4s @8)
+   - STRADDLE PLANCHE: Solid progression with comprehensive training
+   - Latest session: 5s holds (2 sets) with black band + volume work (3×10 PL pushups)
    - Breakthrough: Red+black bands 8s @RPE 7 (Aug 7)
-   - Status: Consolidating straddle shape through varied training approaches
+   - Status: Consistent improvement in straddle holds, building strength endurance
 
 2. handstand: 
    - Phase: Freestanding Balance
-   - 🎉 NEW PERSONAL BEST: 10-second freestanding hold achieved!
-   - Latest session: 8s, 8s, 5s, 5s, 10s (excellent progression)
-   - Status: Approaching 15s intermediate benchmark, 100% kick-up success rate
+   - 🔥 NEW PERSONAL BEST: 12-second freestanding hold achieved (TWICE!)
+   - Latest session: Wall/free alternating protocol - 12s holds with perfect form
+   - Status: 80% to 15s intermediate benchmark (only 3s away!), 100% kick-up success rate
 
 3. front lever: 
    - Level: Advanced tuck negatives  
@@ -19,7 +19,7 @@ current skills stats summary:
    - Status: Building strength through negatives training
 
 4. weighted pull-ups: 
-   - Current max: BW + 20kg × 3 reps (consistent for 4 sessions)
-   - Volume improvement: BW + 12kg increased from 4 to 6 reps
-   - Sessions logged: 5
-   - Status: Building base strength through higher volume at submaximal loads
+   - 🚀 VOLUME BREAKTHROUGH: BW + 18kg × 5 reps with excellent form!
+   - Latest session: 4 sets including bodyweight warm-up, excellent rep quality
+   - Sessions logged: 6
+   - Status: Major improvement in volume-based approach, building towards progression criteria
