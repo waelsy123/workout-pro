@@ -1,6 +1,6 @@
 # Weighted Pull-ups Progress Stats
 
-*Last updated: **2025-07-24***
+*Last updated: **2025-08-07***
 
 ---
 
@@ -16,14 +16,13 @@
 
 ---
 
-## 2 Latest Session Snapshot (2025-07-24)
+## 2 Latest Session Snapshot (2025-08-07)
 
 | Set | Weight | Reps | RPE |
 | --- | ------ | ---- | --- |
-| 1   | BW + 0 | 6    | 6   |
-| 2   | BW + 12| 4    | 7   |
-| 3   | BW + 16| 5    | 8   |
-| 4   | BW + 20| 3    | 8   |
+| 1   | BW + 12| 6    | -   |
+| 2   | BW + 16| 4    | 7   |
+| 3   | BW + 20| 3    | 8   |
 
 * **Top Set:** BW + 20kg × 3 reps
 * **Last-set RPE:** **8**
@@ -33,7 +32,7 @@
 
 | Criterion            | Requirement | Status |
 | -------------------- | ----------- | ------ |
-| Sets completed       | ≥ 4         | ✅ (4)  |
+| Sets completed       | ≥ 4         | ❌ (3)  |
 | Rep range            | 4-6 reps    | ✅      |
 | Last-set RPE         | ≤ 7         | ❌ (8)  |
 | Consecutive sessions | 2           | ❌ (0)  |
@@ -46,9 +45,9 @@
 
 ```yaml
 stats:
-  date_updated: 2025-07-24
-  sessions_logged: 3
-  since_last_progression: 2   # sessions since weight increase
+  date_updated: 2025-08-07
+  sessions_logged: 4
+  since_last_progression: 3   # sessions since weight increase
   ready_sessions_in_row: 0    # consecutive sessions meeting criteria
   current_working_weight: 20kg
   target_next_weight: 22.5kg
@@ -72,6 +71,7 @@ stats:
 - 2025-07-15  BW+0: 6@5, BW+10: 6@7, BW+15: 5@9, BW+17.5: 4@8
 - 2025-07-21  BW+0: 6@5, BW+10: 6@6, BW+16: 4@7, BW+20: 4@8
 - 2025-07-24  BW+0: 6@6, BW+12: 4@7, BW+16: 5@8, BW+20: 3@8
+- 2025-08-07  BW+12: 6, BW+16: 4@7, BW+20: 3@8
 ```
 
 **Progression Pattern:**

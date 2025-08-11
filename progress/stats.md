@@ -1,16 +1,16 @@
-latest workout: 2025-07-24
+latest workout: 2025-08-07
 
 current skills stats summary: 
 1. planche: 
-   - Advanced-tuck: 5 sessions logged with black band (22mm)
-   - Latest: 45s TUT @RPE 7 (first qualifying session)
-   - Status: Need 1 more session @RPE ≤7 to progress to red band
+   - Shape: Straddle planche progression (red+black bands)
+   - Latest: 19s TUT with dual bands @RPE 7, 9s with black only @RPE 8
+   - Status: Working on straddle form, need more volume and hold time
 
 2. handstand: 
    - Phase: Freestanding Balance
-   - Best hold: 9s (freestanding), 26s (wall para)
+   - Best hold: 7s (freestanding), 15s (wall para on parallettes)
    - Recent success rate: 100%
-   - Status: Consistent freestanding holds, wall para progressing
+   - Status: Consistent kick-ups, working on extending hold times
 
 3. front lever: 
    - Level: Advanced tuck negatives  
@@ -19,5 +19,5 @@ current skills stats summary:
 
 4. weighted pull-ups: 
    - Current max: BW + 20kg × 3 reps
-   - Sessions logged: 3
-   - Status: Building strength at current weight, slight volume decrease
+   - Sessions logged: 4
+   - Status: Consistent strength at current weight, working on volume
