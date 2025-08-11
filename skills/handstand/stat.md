@@ -1,6 +1,6 @@
 # Handstand Progress Stats
 
-*Last updated: **2025-07-24***
+*Last updated: **2025-07-27***
 
 ---
 
@@ -15,26 +15,23 @@
 
 ---
 
-## 2 Latest Session Snapshot (2025-07-24)
+## 2 Latest Session Snapshot (2025-07-27)
 
 | Metric               | Performance |
 | -------------------- | ----------- |
-| **Best Hold**        | 9s          |
-| **Total Attempts**   | 7           |
-| **Successful Kicks** | 7           |
+| **Best Hold**        | 4s          |
+| **Total Attempts**   | 4           |
+| **Successful Kicks** | 4           |
 | **Success Rate**     | 100%        |
 | **Form Quality**     | Good        |
 
-### Individual Hold Times
-| Attempt | Hold Duration | Quality Notes                           |
-| ------- | ------------- | --------------------------------------- |
-| 1       | 9s            | Freestanding - best hold                |
-| 2       | 8s            | Freestanding                            |
-| 3       | 5s            | Freestanding                            |
-| 4       | 5s            | Freestanding                            |
-| 5       | 23s           | Wall parallettes @7                     |
-| 6       | 23s           | Wall parallettes @7                     |
-| 7       | 26s           | Wall parallettes @8                     |
+### Individual HSPUs (Wall Handstand Push-ups)
+| Set | Type        | Reps | Quality Notes                       |
+| --- | ----------- | ---- | ----------------------------------- |
+| 1   | Parallettes | 3    | Good form, controlled descent       |
+| 2   | Hands       | 4    | Full range of motion                |
+| 3   | Hands       | 3    | Fatigue showing, maintained form    |
+| 4   | Hands       | 4    | Strong finish                       |
 
 ---
 
@@ -57,13 +54,13 @@
 
 ```yaml
 stats:
-  date_updated: 2025-07-24
-  sessions_logged: 8
+  date_updated: 2025-07-27
+  sessions_logged: 9
   current_phase: freestanding_balance
   best_hold_ever: 15s
-  best_hold_recent: 9s
+  best_hold_recent: 4s
   kick_up_success_rate: 100%
-  sessions_this_week: 5
+  sessions_this_week: 6
 ```
 
 ---
@@ -91,6 +88,7 @@ stats:
 - 2025-07-21  Hold attempts: 4s, 8s, 12s, 2s, 5s @40% success
 - 2025-07-22  Wall holds: 10s, 12s, 15s, 15s @100% success
 - 2025-07-24  Free holds: 9s, 8s, 5s, 5s + Wall para: 23s, 23s, 26s @100%
+- 2025-07-27  Wall HSPUs: 3 (para), 4, 3, 4 reps - strength focus session
 ```
 
 **Progress Trend:**
