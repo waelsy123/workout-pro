@@ -1,6 +1,6 @@
 # Planche Progress Stats
 
-*Last updated: **2025-08-07***
+*Last updated: **2025-08-09***
 
 ---
 
@@ -15,38 +15,37 @@
 
 ---
 
-## 2 Latest Session Snapshot (2025-08-07)
-
-### Straddle Planche (red+black bands)
-| Set | Hold (s) | RPE |
-| --- | -------- | --- |
-| 1   | 4        | 8   |
-| 2   | 8        | 7   |
-| 3   | 7        | 7   |
-
-* **Total time-under-tension (TUT):** **19 s**
-* **Last-set RPE:** **7**
+## 2 Latest Session Snapshot (2025-08-09)
 
 ### Straddle Planche (black band only)
 | Set | Hold (s) | RPE |
 | --- | -------- | --- |
-| 1   | 3        | -   |
-| 2   | 4        | 9   |
-| 3   | 2        | 8   |
+| 1   | 4        | -   |
 
-* **Total time-under-tension (TUT):** **9 s**
-* **Last-set RPE:** **8**
+* **Total time-under-tension (TUT):** **4 s**
+* **Last-set RPE:** **-**
 
-### Pass / Fail vs Progression Criteria (Straddle with red+black)
+### Planche Lean Practice
+| Set | Hold (s) | RPE |
+| --- | -------- | --- |
+| 1   | 5        | -   |
+| 2   | 5        | -   |
+| 3   | 10       | -   |
+| 4   | 12       | -   |
+
+* **Total time-under-tension (TUT):** **32 s**
+* **Focus:** Form and lean angle development
+
+### Pass / Fail vs Progression Criteria (Straddle progression)
 
 | Criterion            | Requirement | Status |
 | -------------------- | ----------- | ------ |
-| Sets                 | ≥ 4         | ❌ (3)  |
-| Hold length          | 8–12 s each | ❌ (4-8s)|
-| Last-set RPE         | ≤ 7         | ✅ (7)  |
-| Consecutive sessions | 2           | ❌ (1)  |
+| Sets                 | ≥ 4         | ❌ (1)  |
+| Hold length          | 8–12 s each | ❌ (4s) |
+| Last-set RPE         | ≤ 7         | ❓ (-) |
+| Consecutive sessions | 2           | ❌ (0)  |
 
-> **Verdict:** *Straddle progression work* - Working on increasing set volume and hold times with dual band assistance. Black-only holds show the challenge level without red band support.
+> **Verdict:** *Light straddle work* - Single hold with black band assistance. Focus shifted to planche lean development for building fundamental strength and positioning.
 
 ---
 
@@ -54,13 +53,13 @@
 
 ```yaml
 stats:
-  date_updated: 2025-08-07
-  sessions_logged: 6
-  since_last_progression: 5   # sessions since band/shape change
+  date_updated: 2025-08-09
+  sessions_logged: 7
+  since_last_progression: 6   # sessions since band/shape change
   ready_sessions_in_row: 0    # consecutive sessions meeting all criteria
-  current_band: 22mm+13mm
+  current_band: 22mm
   target_band: 22mm
-  current_shape: straddle
+  current_shape: straddle_progression
 ```
 
 ---
@@ -82,6 +81,7 @@ stats:
 - 2025-07-22  (black-band adv-tuck): 8s, 8s, 11s, 9s, 11s @RPE 8
 - 2025-07-24  (black-band adv-tuck): 5s, 11s, 10s, 10s, 9s @RPE 7
 - 2025-08-07  (red+black straddle): 4s, 8s, 7s @RPE 7; (black straddle): 3s, 4s, 2s @RPE 8
+- 2025-08-09  (black straddle): 4s; (planche lean): 5s, 5s, 10s, 12s
 ```
 
 **Straddle Planche Progress (with bands):**
@@ -89,6 +89,7 @@ stats:
 - 2025-07-17  (black+red bands): 1s, 1s, 2s, 2s, 3s, 4s @RPE 9
 - 2025-07-21  (black+red bands): 3s, 4s, 4s @RPE 8-9
 - 2025-08-07  (red+black bands): 4s, 8s, 7s @RPE 7; (black only): 3s, 4s, 2s @RPE 8-9
+- 2025-08-09  (black only): 4s; planche lean focus: 5s, 5s, 10s, 12s
 ```
 
 > More trend data (graphs, moving averages) will be added once ≥ 5 logs are available.

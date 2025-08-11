@@ -1,16 +1,16 @@
-latest workout: 2025-08-07
+latest workout: 2025-08-09
 
 current skills stats summary: 
 1. planche: 
-   - Shape: Straddle planche progression (red+black bands)
-   - Latest: 19s TUT with dual bands @RPE 7, 9s with black only @RPE 8
-   - Status: Working on straddle form, need more volume and hold time
+   - Shape: Straddle planche progression with black band
+   - Latest: 4s straddle hold, 32s planche lean practice (5s, 5s, 10s, 12s)
+   - Status: Focus on fundamentals and lean progression for strength building
 
 2. handstand: 
    - Phase: Freestanding Balance
-   - Best hold: 7s (freestanding), 15s (wall para on parallettes)
-   - Recent success rate: 100%
-   - Status: Consistent kick-ups, working on extending hold times
+   - Best hold: 10s (freestanding) - recent improvement
+   - Recent success rate: 100% (5/5 attempts)
+   - Status: Strong progress, achieving double-digit holds consistently
 
 3. front lever: 
    - Level: Advanced tuck negatives  

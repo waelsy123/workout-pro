@@ -1,6 +1,6 @@
 # Handstand Progress Stats
 
-*Last updated: **2025-08-07***
+*Last updated: **2025-08-09***
 
 ---
 
@@ -15,29 +15,24 @@
 
 ---
 
-## 2 Latest Session Snapshot (2025-08-07)
+## 2 Latest Session Snapshot (2025-08-09)
 
 | Metric               | Performance |
 | -------------------- | ----------- |
-| **Best Hold**        | 7s          |
-| **Total Attempts**   | 4           |
-| **Successful Kicks** | 4           |
+| **Best Hold**        | 10s         |
+| **Total Attempts**   | 5           |
+| **Successful Kicks** | 5           |
 | **Success Rate**     | 100%        |
 | **Form Quality**     | Good        |
 
 ### Individual Hold Times (FHS - Free Handstand)
 | Attempt | Hold Duration | Quality Notes                                    |
 | ------- | ------------- | ------------------------------------------------ |
-| 1       | 7s            | Freestanding                                     |
-| 2       | 5s            | Freestanding                                     |
-| 3       | 6s            | Freestanding                                     |
+| 1       | 8s            | Freestanding                                     |
+| 2       | 8s            | Freestanding                                     |
+| 3       | 5s            | Freestanding                                     |
 | 4       | 5s            | Freestanding                                     |
-
-### Wall Para Performance
-| Attempt | Hold Duration | RPE | Quality Notes                                    |
-| ------- | ------------- | --- | ------------------------------------------------ |
-| 1       | 15s           | -   | Wall support on parallettes                      |
-| 2       | 15s           | -   | Wall support on parallettes                      |
+| 5       | 10s           | Freestanding - best hold                         |
 
 ---
 
@@ -60,13 +55,13 @@
 
 ```yaml
 stats:
-  date_updated: 2025-08-07
-  sessions_logged: 9
+  date_updated: 2025-08-09
+  sessions_logged: 10
   current_phase: freestanding_balance
   best_hold_ever: 15s
-  best_hold_recent: 7s
+  best_hold_recent: 10s
   kick_up_success_rate: 100%
-  sessions_this_week: 1
+  sessions_this_week: 2
 ```
 
 ---
@@ -95,6 +90,7 @@ stats:
 - 2025-07-22  Wall holds: 10s, 12s, 15s, 15s @100% success
 - 2025-07-24  Free holds: 9s, 8s, 5s, 5s @100% success; Wall para: 23s, 23s, 26s
 - 2025-08-07  Free holds: 7s, 5s, 6s, 5s @100% success; Wall para: 15s, 15s
+- 2025-08-09  Free holds: 8s, 8s, 5s, 5s, 10s @100% success
 ```
 
 **Progress Trend:**
